@@ -1,2 +1,2 @@
-# image-dedupe-embeddings_based
+# image-dedupe-embeddings-based
 This project is a deep learning–powered image deduplication tool designed to run locally on large-scale photo galleries (1TB+). It uses CLIP-based visual embeddings to capture semantic content of images and applies cosine similarity to detect duplicates and near-duplicates. The system is optimized for local execution, modular for experimentation, and intended to be extended with a web-based review interface.
