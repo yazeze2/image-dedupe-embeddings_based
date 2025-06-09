@@ -1,0 +1,18 @@
+# Core
+numpy
+pandas
+PyYAML
+tqdm
+
+# Image processing
+Pillow
+opencv-python
+
+# ML + embeddings
+torch
+torchvision
+transformers
+scikit-learn
+
+# Jupyter (for development)
+notebook
